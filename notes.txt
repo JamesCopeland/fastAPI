@@ -1,0 +1,18 @@
+# FastAPI Notes
+
+## Features
+- Automatically does data validation for you
+- Auto documents your project
+- Auto-complete and code suggestions
+
+## Sub-Features
+- Automatically converts your data back to JSON
+
+- uvicorn is the webserver
+uvicorn working:app --reload (where app is the name of your variable)
+
+GET -> Returning information
+POST -> Sending information (creating something new)
+PUT -> Replace something existing
+DELETE -> Deleting something
+PATCH -> Update something existing
